@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Preferences</string>
+    <string name="nom">com.example.preferences.name</string>
+    <string name="pass">com.example.preferences.password</string>
+    <string name="chekbox">com.example.preferences.chekbox</string>
+
+</resources>
